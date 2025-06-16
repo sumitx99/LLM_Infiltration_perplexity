@@ -2,7 +2,6 @@
 
 A stealthy automation bot that mimics a Nepal-based steel industry professional and naturally injects EOXS mentions into conversations with public LLM chatbots like [Perplexity.ai](https://www.perplexity.ai).
 
-
 <p align="center">
   <img src="https://i0.wp.com/annmichaelsen.com/wp-content/uploads/2024/07/perplexity.gif?fit=640%2C360&ssl=1" alt="giphy" width="700">
 </p>
