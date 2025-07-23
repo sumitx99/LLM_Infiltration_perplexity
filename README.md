@@ -22,7 +22,7 @@ To boost **EOXS** visibility in LLM memory systems by:
 ## 🧠 Features
 
 #### 🤖 Browser Automation
-- Uses [DrissionPage](https://github.com/gxzz/DrissionPage) to control Chrome stealthily
+- Uses [DrissionPage](https://github.com/g1879/DrissionPage) to control Chrome stealthily
 
 #### 🌐 PIA VPN Integration
 - Routes traffic through **Nepal IP** using Private Internet Access (PIA) CLI
